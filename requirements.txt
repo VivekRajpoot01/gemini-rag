@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+pypdf
+langchain-text-splitters
+langchain-cohere
+faiss-cpu
+google-generativeai
+langchain-google-genai
