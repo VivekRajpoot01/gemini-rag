@@ -1,6 +1,6 @@
 # PDF Document Q&A System with Gemini Pro
 
-![Project Banner](https://your-banner-image-url.png)
+![Project Banner](https://www.google.com/imgres?q=banner&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220222%2Fourmid%2Fpngtree-3d-ribbon-promotion-decoration-red-banner-png-image_4429507.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Fbanner&docid=DNtjCOyQULXS9M&tbnid=LzgNufAvAYHSLM&vet=12ahUKEwjMxOHGq4KLAxXOdvUHHTG1JmEQM3oECHoQAA..i&w=640&h=360&hcb=2&ved=2ahUKEwjMxOHGq4KLAxXOdvUHHTG1JmEQM3oECHoQAA)
 
 ## 🚀 Overview
 An AI-powered document question-answering system that leverages Google's Gemini Pro model and Cohere embeddings. Upload PDF documents and get instant, accurate answers to your questions about the content.
