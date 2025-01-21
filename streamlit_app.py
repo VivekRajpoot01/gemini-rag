@@ -58,7 +58,7 @@ class QuestionAnswerer:
         self.llm = GoogleGenerativeAI(
             model="gemini-pro",
             google_api_key=GOOGLE_API_KEY,
-            temperature=0.3
+            temperature=0.7
         )
 
     def get_answer(self, question: str, texts: list, index: faiss.IndexFlatL2):
@@ -72,8 +72,8 @@ class QuestionAnswerer:
         relevant_chunks = [texts[i] for i in indices[0]]
 
         # Create prompt
-        prompt = f"""Based on the following context, please answer the question.
-        If the answer cannot be found in the context, say "I cannot find an answer to this question in the document."
+        prompt = f"""Based on the following context, please answer the question that is asked by
+        the user related to the context that is provided.
 
         Context:
         {' '.join(relevant_chunks)}
