@@ -9,8 +9,8 @@ from langchain_cohere import CohereEmbeddings
 from langchain_google_genai import GoogleGenerativeAI
 
 # Configuration
-COHERE_API_KEY = "01YL5TQxIsz1SXKTffDBWzXuX6M5Yf8HDxvIfe2G"
-GOOGLE_API_KEY = "AIzaSyBPg52dZBy6mECGJiMmaiLw4l4tNLvkILY"
+COHERE_API_KEY = "your_api_key"
+GOOGLE_API_KEY = "your_api_key"
 
 class DocumentProcessor:
     def __init__(self):
