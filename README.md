@@ -4,7 +4,7 @@
 ## 🚀 Overview
 An AI-powered document question-answering system that leverages Google's Gemini Pro model and Cohere embeddings. Upload PDF documents and get instant, accurate answers to your questions about the content.
 
-[Project Link](https://gemini-rag-app.streamlit.app/)
+[Project Link](https://gemini-rag.streamlit.app/)
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.24.0-FF4B4B.svg)](https://streamlit.io/)
